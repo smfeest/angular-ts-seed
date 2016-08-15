@@ -1,0 +1,15 @@
+{
+    "name": "angular-ts-seed",
+    "description": "Seed project for an Angular 1 app, written in TypeScript with ES6 modules",
+    "authors": [
+        "Stephen Feest"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "angular": "~1.5.0",
+        "angular-route": "~1.5.0",
+        "jquery": "^3.1.0",
+        "normalize-css": "normalize.css#^4.2.0"
+    }
+}
